@@ -1,0 +1,32 @@
+{
+  "repo_name": "GuaranteedEnderPearls",
+  "stage_path": "C:\\Users\\nickc\\Desktop\\Dev\\github-upload-prepared\\packs\\GuaranteedEnderPearls",
+  "source_paths": [
+    "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\开挂\\小黑百分百掉珍珠"
+  ],
+  "existing_git_paths": [],
+  "exclusions": [
+    {
+      "path": "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\开挂\\小黑百分百掉珍珠\\小黑百分百掉珍珠.zip",
+      "reason": "依赖/分发二进制、压缩包、Git/IDE/缓存/临时文件"
+    }
+  ],
+  "retained_thirdparty": [],
+  "archive_variants": [
+    {
+      "source_archive": "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\开挂\\小黑百分百掉珍珠\\小黑百分百掉珍珠.zip",
+      "stage_path": "C:\\Users\\nickc\\Desktop\\Dev\\github-upload-prepared\\packs\\GuaranteedEnderPearls\\versions\\datapacks\\current\\小黑百分百掉珍珠\\小黑百分百掉珍珠",
+      "sha256": "1d0a0a84960d2970c83a333542746d0ae765c021e628ca92ff8e8f4161c7ed17",
+      "extracted_files": 3,
+      "excluded_entries": [],
+      "status": "extracted-source-variant"
+    }
+  ],
+  "source_mapping": [
+    {
+      "source": "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\开挂\\小黑百分百掉珍珠",
+      "stage_relative": "datapacks\\current\\小黑百分百掉珍珠"
+    }
+  ],
+  "file_count": 10
+}
