@@ -1,0 +1,73 @@
+{
+  "name": "GuaranteedEnderPearls",
+  "ref": "snapshot/pack-001",
+  "kind": "tag",
+  "base_commit": "6c653f14ce5d057063077a8669bfd247269652d8",
+  "default_version_branch": "mc/1.20-compatible",
+  "branches": [
+    "mc/1.20-compatible"
+  ],
+  "snapshots": [
+    "snapshot/pack-001"
+  ],
+  "mappings": [
+    {
+      "source_prefix": "versions/datapacks/current/小黑百分百掉珍珠/小黑百分百掉珍珠/data/minecraft/loot_table/entities/enderman.json",
+      "target_prefix": "data/minecraft/loot_table/entities/enderman.json"
+    },
+    {
+      "source_prefix": "versions/datapacks/current/小黑百分百掉珍珠/小黑百分百掉珍珠/data/minecraft/loot_tables/entities/enderman.json",
+      "target_prefix": "data/minecraft/loot_tables/entities/enderman.json"
+    },
+    {
+      "source_prefix": "versions/datapacks/current/小黑百分百掉珍珠/小黑百分百掉珍珠/pack.mcmeta",
+      "target_prefix": "pack.mcmeta"
+    },
+    {
+      "source_prefix": ".gitignore",
+      "target_prefix": ".gitignore"
+    },
+    {
+      "source_prefix": "LICENSE",
+      "target_prefix": "LICENSE"
+    },
+    {
+      "source_prefix": "README.md",
+      "target_prefix": "README.md"
+    },
+    {
+      "source_prefix": "SOURCE_MAP.json",
+      "target_prefix": "SOURCE_MAP.json"
+    },
+    {
+      "source_prefix": "README.md",
+      "target_prefix": "docs/original-layout/README.md"
+    }
+  ],
+  "metadata": {
+    "name": "snapshot/pack-001",
+    "source_archive": "C:\\Users\\nickc\\Desktop\\Dev\\Datapack\\开挂\\小黑百分百掉珍珠\\小黑百分百掉珍珠.zip",
+    "source_archive_sha256": "1d0a0a84960d2970c83a333542746d0ae765c021e628ca92ff8e8f4161c7ed17",
+    "source_prefix": "versions/datapacks/current/小黑百分百掉珍珠/小黑百分百掉珍珠",
+    "source_exists": true,
+    "pack_roots": [
+      "versions/datapacks/current/小黑百分百掉珍珠/小黑百分百掉珍珠"
+    ],
+    "metadata": [
+      {
+        "pack_format": 15,
+        "supported_formats": [
+          15,
+          61
+        ]
+      }
+    ],
+    "identical_current_pack_roots": [
+      "datapacks/current/小黑百分百掉珍珠"
+    ],
+    "classification": "same-mc-release-or-functional-snapshot",
+    "mc_branch": null,
+    "group": "packs"
+  },
+  "collision_preservation": []
+}
